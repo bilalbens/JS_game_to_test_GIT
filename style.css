@@ -1,0 +1,12 @@
+
+*{padding: 0; margin: 0;}
+
+#mycanvas{
+
+    background:#eee;
+    display: block;
+    margin: 50px auto;
+}
+h1{
+    margin: 50px 100px;
+}
